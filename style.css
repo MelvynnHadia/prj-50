@@ -1,0 +1,39 @@
+.text-color {
+    font-family: "bahnschrift";
+    color:black;
+}
+
+.blue {
+    color: white;
+    background-color: cadetblue;
+    text-align: left;
+}
+
+.head {
+    font-size: 250px;
+}
+
+.head2 {
+    font-size: 30px;
+}
+
+.camel {
+    background-color: lemonchiffon;
+    border-style: solid;
+    border-color: lemonchiffon;
+    border-width: 50;
+}
+
+.panda {
+    background-color: lightsteelblue;
+    border-style: solid;
+    border-color: lightsteelblue;
+    border-width: 50;
+}
+
+.bear{
+    background-color: rgb(255, 167, 84);
+    border-style: solid;
+    border-color: rgb(255, 167, 84);
+    border-width: 50;
+}
